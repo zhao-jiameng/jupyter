@@ -1,0 +1,9 @@
+jupyter快捷键
+
+    shift+enter  运行
+    tab       自动补全
+    a         上方插入行
+    b         下方插入行
+    x         剪切
+    m         makedowm
+    z         回退
