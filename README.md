@@ -1,2 +1,10 @@
-# jupyter
-This is code and notes for data analysis, visualization, and indicator calculation in pandas
+## 社團分析項目 ##
+
+
+
+主要使用Pandas對社團每日簽到表進行統計與分析，使用 Pyecharts 對處理好的數據進行可視化展示：
+
+- 班級人員分佈
+- 每日出勤人數統計
+- 人員出勤Top10
+
